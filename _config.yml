@@ -1,11 +1,11 @@
 # Site settings
 author: Steven Riggs
-title: Coding for Non-Coders
+title: Flatiron Blog
 header-img: img/home-bg.png
 email: sfriggs21@gmail.com
 copyright_name: Steven Riggs
 description: > # this means to ignore newlines until "baseurl:"
-  What are they talking about, anyway?
+  Assigned blog posts for Software Engineering course
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  StevenDRiggs
